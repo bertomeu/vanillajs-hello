@@ -1,7 +1,7 @@
-let who = ['El perro', 'Mi abuela', 'El cartero', 'Mi pájaro'];
-let action = ['comió', 'orinó', 'rompió', 'aplastó'];
-let what = ['mi tarea', 'mi teléfono', 'el auto'];
-let when = ['antes de clase', 'mientras dormía', 'haciendo ejercicio', 'durante la comida', 'mientras rezaba'];
+let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
+let action = ['ate', 'peed', 'crushed', 'broke'];
+let what = ['my homework', 'my phone', 'the car'];
+let when = ['before the class', 'when I was sleeping', 'while I was exercising', 'during my lunch', 'while I was praying'];
 
 window.onload = function() {
     generateExcuse();
